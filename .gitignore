@@ -1,0 +1,5 @@
+terraform/.terraform
+terraform/.terraform*
+terraform/terraform*
+interface_apis.jpg
+run_api.jpg
